@@ -28,4 +28,4 @@ The executable can take two arguments. run=1 specifies that this is a new instan
 Positions of the cells and velocities are written to a file particle_data.dat.
 
 This data can be imported into the open source visualisation software PARAVIEW http://www.paraview.org/.
-To convert particle_data.dat to VTK file format for visualisation see Discrete-element-method-visualisation
+To convert particle_data.dat to VTK file format for visualisation see Discrete-element-method-visualisation in the Fortran file Convert.f90
